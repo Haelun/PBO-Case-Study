@@ -1,6 +1,6 @@
 # PBO-Case-Study
 ## Name : Nyoman Adhi Dhira Purnomo
-## NIMM : F1D02410132
+## NIM : F1D02410132
 
 # Bank ABC - OOP Case Study (Abstract Class, Interface, Inheritance & Polymorphism)
 
