@@ -28,3 +28,5 @@ This project demonstrates both types of polymorphism:
 * **Compile-Time Polymorphism (Method & Constructor Overloading):**
   * `Bank` overloads its constructors (`Bank()` and `Bank(String, int)`).
   * `depositAll()`, `withdrawAll()`, and `totalBalance()` are overloaded to accept either a standard array (`Bank[]`) or a generic list (`ArrayList<Bank>`).
+ 
+  ![Class Diagram](Bank Diagram.png)
