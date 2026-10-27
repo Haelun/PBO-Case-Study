@@ -1,4 +1,3 @@
-<img width="1701" height="1100" alt="Bank Diagram" src="https://github.com/user-attachments/assets/6bb43f09-d888-4d63-b476-13137ea2729c" />
 # PBO-Case-Study
 ## Name : Nyoman Adhi Dhira Purnomo
 ## NIM : F1D02410132
