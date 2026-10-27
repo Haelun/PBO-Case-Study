@@ -1,3 +1,4 @@
+<img width="1701" height="1100" alt="Bank Diagram" src="https://github.com/user-attachments/assets/6bb43f09-d888-4d63-b476-13137ea2729c" />
 # PBO-Case-Study
 ## Name : Nyoman Adhi Dhira Purnomo
 ## NIM : F1D02410132
@@ -29,4 +30,5 @@ This project demonstrates both types of polymorphism:
   * `Bank` overloads its constructors (`Bank()` and `Bank(String, int)`).
   * `depositAll()`, `withdrawAll()`, and `totalBalance()` are overloaded to accept either a standard array (`Bank[]`) or a generic list (`ArrayList<Bank>`).
  
-  ![Class Diagram](Bank Diagram.png)
+ <img width="1701" height="1100" alt="Bank Diagram" src="https://github.com/user-attachments/assets/62d151a0-9e9c-4f6a-8a2f-cc2bf9a324c5" />
+
