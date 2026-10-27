@@ -1,8 +1,8 @@
 # PBO-Case-Study
+## Name : Nyoman Adhi Dhira Purnomo
+## NIMM : F1D02410132
 
 # Bank ABC - OOP Case Study (Abstract Class, Interface, Inheritance & Polymorphism)
-
-This project demonstrates core Object-Oriented Programming (OOP) concepts in Java through a banking system case study.
 
 ## OOP Concepts Implemented
 
